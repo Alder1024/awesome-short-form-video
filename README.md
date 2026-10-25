@@ -80,6 +80,7 @@ Formats that require no camera: narrated scripts over stock or gameplay footage.
   list. If you're automating, you'll end up here.
 - [Remotion](https://www.remotion.dev/) — Render video programmatically from
   React. The standard choice for generated video at scale.
+- [Text Match Cut](https://textmatchcut.net/) — Free online text match cut video maker.
 
 ## Free single-purpose tools
 
